@@ -1,0 +1,24 @@
+# Git-related files
+.git
+.gitignore
+
+# Python-specific files
+__pycache__/
+*.py[co]
+.Python
+env/
+venv/
+.env
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+
+# Audio / Temp files
+/tmp/
+*.wav
+*.m4a
+*.mp3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
