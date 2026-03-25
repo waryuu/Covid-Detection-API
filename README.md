@@ -20,7 +20,7 @@ Ensure you have Python 3.9 installed, then follow these steps:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/waryuu/Covid-Detection-API.git](https://github.com/waryuu/Covid-Detection-API.git)
+git clone https://github.com/waryuu/Covid-Detection-API.git
 cd Covid-Detection-API
 
 # Install dependencies
