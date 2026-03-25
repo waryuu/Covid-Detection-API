@@ -1,0 +1,9 @@
+runtime: python39
+entrypoint: gunicorn -b :$PORT main:app
+
+env_variables:
+  GCS_BUCKET_NAME: "cap0426-group-bucket"
+
+handlers:
+- url: /.*
+  script: auto

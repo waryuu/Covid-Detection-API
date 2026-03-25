@@ -1,0 +1,6 @@
+Flask==1.1.4
+gunicorn==20.1.0
+tensorflow==2.5.0
+librosa==0.8.0
+google-cloud-storage==1.38.0
+numpy==1.19.5
